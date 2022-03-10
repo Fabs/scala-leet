@@ -1,3 +1,6 @@
+package leet
+package solutions
+
 import scala.collection.mutable.HashSet
 
 object Solution {

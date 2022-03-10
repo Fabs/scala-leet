@@ -1,10 +1,13 @@
+package leet
+package solutions
+
 class ListNode(_x: Int = 0, _next: ListNode = null) {
   var next: ListNode = _next
   var x: Int = _x
 }
 
 // @solution-sync:begin
-object Solution {
+object SolutionPalindrome {
     def isPalindrome(head: ListNode): Boolean = {
       val list = toList(head)
       val listReverse = toList(head).reverse
