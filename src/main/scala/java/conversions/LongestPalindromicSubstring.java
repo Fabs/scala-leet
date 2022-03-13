@@ -3,7 +3,7 @@ package leet.java.conversions;
 /**
  * Leet code only supports java, so I converted my scala solution
  */
-public class LongestPlindromicSubstring {
+public class LongestPalindromicSubstring {
     public String longestPalindrome(String str) {
         var n = str.length();
         boolean pals[][] = new boolean[n][n];
