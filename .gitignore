@@ -194,3 +194,4 @@ project/plugins/project/
 .bloop/
 project/metals.sbt
 
+.DS_Store

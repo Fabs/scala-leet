@@ -1,6 +1,3 @@
-package leet
-package solutions
-
 import scala.collection.mutable.HashMap
 
 class Logger() {
@@ -27,5 +24,3 @@ class Logger() {
     logger.shouldPrintMessage(11, "foo")
   }
 }
-
-
