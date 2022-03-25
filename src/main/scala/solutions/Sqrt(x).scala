@@ -4,7 +4,7 @@ object Solution {
       while((k+1) <= x/(k+1)) {
         k += 1
       }
-      
+
       k
     }
 }
