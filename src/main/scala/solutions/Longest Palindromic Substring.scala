@@ -1,6 +1,6 @@
 import scala.collection.mutable.HashSet
 
-object Solution {
+object Solution3 {
     def longestPalindrome(str: String): String = {
       val pals = new HashSet[(Int, Int)]
       var longest = str.substring(str.length - 1, str.length)

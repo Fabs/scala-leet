@@ -4,7 +4,7 @@ class ListNode(_x: Int = 0, _next: ListNode = null) {
 }
 
 // @solution-sync:begin
-object Solution {
+object Solution4 {
     def isPalindrome(head: ListNode): Boolean = {
       if(head == null || head.next == null) {
         return true

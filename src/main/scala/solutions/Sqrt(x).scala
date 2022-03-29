@@ -1,4 +1,4 @@
-object Solution {
+object Solution7 {
     def mySqrt(x: Int): Int = {
       var k = 0
       while((k+1) <= x/(k+1)) {

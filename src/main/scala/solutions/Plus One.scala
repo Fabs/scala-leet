@@ -1,4 +1,4 @@
-object Solution {
+object Solution5 {
   def plusOne(digits: Array[Int]): Array[Int] = {
     val result = digits.reverse.foldLeft((1, Array.empty[Int]))((mem, d) => {
       val carry = mem._1

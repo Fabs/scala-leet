@@ -1,4 +1,4 @@
-object Solution {
+object Solution2 {
   def strStr(haystack: String, needle: String): Int = {
     if (needle == "") {
       return 0

@@ -1,4 +1,4 @@
-object Solution {
+object Solution8 {
   def kWeakestRows(mat: Array[Array[Int]], k: Int): Array[Int] = {
     mat.zipWithIndex.sortBy(score).map(_._2).take(k)
   }

@@ -5,7 +5,7 @@ class TreeNode(_value: Int = 0, _left: TreeNode = null, _right: TreeNode = null)
 }
 
 // @solution-sync:begin
-object Solution {
+object Solution6 {
     def isSameTree(p: TreeNode, q: TreeNode): Boolean = {
       if(p == null && q == null) {
         return true
