@@ -1,4 +1,4 @@
-package leet.java.conversions;
+package leet.java.scala_unsupported;
 
 /**
  * Leet code only supports java, so I converted my scala solution

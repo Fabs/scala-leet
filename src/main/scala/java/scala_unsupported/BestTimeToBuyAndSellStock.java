@@ -1,4 +1,4 @@
-package leet.java.conversions;
+package leet.java.scala_unsupported;
 
 public class BestTimeToBuyAndSellStock {
     public int maxProfit(int[] prices) {

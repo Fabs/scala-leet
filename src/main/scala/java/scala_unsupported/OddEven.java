@@ -1,4 +1,4 @@
-package leet.java.conversions;
+package leet.java.scala_unsupported;
 
 //FIXME: Time Limit
 public class OddEven {

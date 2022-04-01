@@ -1,4 +1,4 @@
-package leet.java.conversions;
+package leet.java.scala_unsupported;
 
 public class TwoSumNaive {
     public int[] twoSum(int[] nums, int target) {
