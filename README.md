@@ -1,4 +1,4 @@
-# scala-leet
+# DEPRECATED
 
 Solving leet code. Yay!
 
